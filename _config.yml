@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://aaron.itsthegrays.com"
+baseurl: "https://testing.aarontakespictures.com"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
