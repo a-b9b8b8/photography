@@ -1621,10 +1621,10 @@
 			}
 
 		body.content-active #main {
-			-moz-filter: blur(90px);
-			-webkit-filter: blur(90px);
-			-ms-filter: blur(90px);
-			filter: blur(90px);
+			-moz-filter: blur(900px);
+			-webkit-filter: blur(900px);
+			-ms-filter: blur(900px);
+			filter: blur(900px);
 		}
 
 			body.content-active #main:after {
