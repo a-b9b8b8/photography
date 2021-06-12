@@ -1621,10 +1621,10 @@
 			}
 
 		body.content-active #main {
-			-moz-filter: blur(900px);
-			-webkit-filter: blur(900px);
-			-ms-filter: blur(900px);
-			filter: blur(900px);
+			-moz-filter: blur(6px);
+			-webkit-filter: blur(6px);
+			-ms-filter: blur(6px);
+			filter: blur(6px);
 		}
 
 			body.content-active #main:after {
@@ -1651,7 +1651,7 @@
 			transition-delay: 2.525s;
 			height: calc(40vh - 2em);
 			min-height: 20em;
-			width: 25%;
+			width: 10%;
 		}
 
 			#main .thumb:nth-child(1) {
